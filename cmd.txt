@@ -1,0 +1,6 @@
+xrun +access+rwc -uvm +UVM_TESTNAME=<test_class_name> <only_the_top_module> -uvm -sv
+
+https://github.com/naragece/uvm-testbench-tutorial-simple-adder
+
+
+http://colorlesscube.com/uvm-guide-for-beginners/
